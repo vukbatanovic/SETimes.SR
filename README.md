@@ -11,7 +11,7 @@ This repository contains the newest version of the SETimes.SR corpus, which has 
 Document segmentation was introduced in a previous version of this repository.
 Sentence and token segmentation, lemmas, and MSD layers were taken from the [Regional Linguistic Data Initiative repository](https://github.com/uzh/reldi/tree/master/corpora).
 UDv2 dependency relation layer was taken from the [UD Serbian repository](https://github.com/UniversalDependencies/UD_Serbian-SET).
-Both the MTEv5 and the UD morphosyntactic features and POS tags were semi-automatically generated using the MTE - UD mapping and code available in the [hr500k repository](https://github.com/nljubesi/hr500k/).
+Both the MTEv5 and the UD morphosyntactic features and POS tags were semi-automatically generated using the MTE - UD mapping and code available in this repository. The same mapping was also applied to the [hr500k corpus in Croatian](https://github.com/nljubesi/hr500k/).
 The named entity annotation is newly added.
 
 ## Structure
