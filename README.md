@@ -28,5 +28,20 @@ The SETimes.SR corpus file is structured according to the CoNLL file format stan
 9. UD specific features (used to encode the SpaceAfter attribute)
 10. Named entity tag
 
+## Other formats
+The SETimes.SR corpus is also available in several different formats on the Slovenian Research Infrastructure [CLARIN.SI repository](http://hdl.handle.net/11356/1200):
+* TEI format
+* Vertical format
+* [NoSketch Engine interface](https://www.clarin.si/noske/run.cgi/corp_info?corpname=setimes_sr)
+* [KonText interface](https://www.clarin.si/kontext/first_form?corpname=setimes_sr)
+
 ## References
-TBA
+If you wish to use the SETimes.SR corpus in your paper or project, please cite:
+
+**SETimes.SR - A Reference Training Corpus of Serbian**, Vuk Batanović, Nikola Ljubešić, Tanja Samardžić, in Proceedings of the 2018 Conference on Language Technologies & Digital Humanities (JT-DH 2018), pp. 11-17, Ljubljana, Slovenia (2018).
+
+## Acknowledgement
+Work on the SETimes.SR corpus was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (ReLDI) via the Swiss National Science Foundation grant no. 160501, and the Slovenian Research Infrastructure CLARIN.SI.
+
+## License
+[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
