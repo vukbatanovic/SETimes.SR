@@ -38,10 +38,10 @@ The SETimes.SR corpus is also available in several different formats on the Slov
 ## References
 If you wish to use the SETimes.SR corpus in your paper or project, please cite:
 
-**SETimes.SR - A Reference Training Corpus of Serbian**, Vuk Batanović, Nikola Ljubešić, Tanja Samardžić, in Proceedings of the 2018 Conference on Language Technologies & Digital Humanities (JT-DH 2018), pp. 11-17, Ljubljana, Slovenia (2018).
+**SETimes.SR – A Reference Training Corpus of Serbian**, Vuk Batanović, Nikola Ljubešić, Tanja Samardžić, in Proceedings of the 2018 Conference on Language Technologies & Digital Humanities (JT-DH 2018), pp. 11-17, Ljubljana, Slovenia (2018).
 
 ## Acknowledgement
-Work on the SETimes.SR corpus was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (ReLDI) via the Swiss National Science Foundation grant no. 160501, and the Slovenian Research Infrastructure CLARIN.SI.
+Work on the SETimes.SR corpus was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (ReLDI) via the Swiss National Science Foundation grant no. 160501, and the Slovenian Research Infrastructure [CLARIN.SI](http://www.clarin.si/).
 
 ## License
 [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
