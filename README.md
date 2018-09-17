@@ -1,4 +1,4 @@
-# SETimes.SR: Reference training corpus of Serbian
+# SETimes.SR: A reference training corpus of Serbian
 This repository contains the SETimes.SR reference training corpus of Serbian, which has been annotated on the following levels:
 * Document, sentence, and token segmentation
 * Lemmas
@@ -37,11 +37,11 @@ The SETimes.SR corpus is also available in several different formats on the Slov
 * [KonText interface](https://www.clarin.si/kontext/first_form?corpname=setimes_sr)
 
 ## References
-If you wish to use the SETimes.SR corpus in your paper or project, please cite the following paper and resource reference:
+If you wish to use the SETimes.SR corpus in your paper or project, please cite the following paper and resource references:
 
 * **SETimes.SR – A Reference Training Corpus of Serbian**, Vuk Batanović, Nikola Ljubešić, Tanja Samardžić, in Proceedings of the 2018 Conference on Language Technologies & Digital Humanities (JT-DH 2018), pp. 11-17, Ljubljana, Slovenia (2018).
 
-* Batanović, Vuk; Ljubešić, Nikola; Samardžić, Tanja and Erjavec, Tomaž, 2018, *Training corpus SETimes.SR 1.0*, Slovenian language resource repository CLARIN.SI, http://hdl.handle.net/11356/1200.
+* Batanović, Vuk; Ljubešić, Nikola; Samardžić, Tanja and Erjavec, Tomaž, 2018, *Training corpus SETimes.SR 1.0*, Slovenian language resource repository CLARIN.SI, [http://hdl.handle.net/11356/1200](http://hdl.handle.net/11356/1200).
 
 ## Acknowledgement
 Work on the SETimes.SR corpus was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (ReLDI) via the Swiss National Science Foundation grant no. 160501, and the Slovenian Research Infrastructure [CLARIN.SI](http://www.clarin.si/).
