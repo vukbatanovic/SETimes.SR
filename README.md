@@ -8,6 +8,7 @@ This repository contains the SETimes.SR reference training corpus of Serbian, wh
 
 ## Annotation sources
 
+The texts within SETimes.SR were taken from the [SETimes parallel corpus](http://opus.nlpl.eu/SETIMES.php), a multilingual parallel collection of news stories from the now defunct Southeast European Times news portal.
 Document segmentation was introduced in a previous version of the SETimes.SR repository.
 Sentence and token segmentation, lemmas, and MSD layers were taken from the [Regional Linguistic Data Initiative repository](https://github.com/uzh/reldi/tree/master/corpora).
 UDv2 dependency relation layer was taken from the [UD Serbian repository](https://github.com/UniversalDependencies/UD_Serbian-SET).
