@@ -1,5 +1,5 @@
 # SETimes.SR: Southeast European Times corpus in Serbian
-This repository contains the newest version of the SETimes.SR corpus, which has been annotated on the following levels:
+This repository contains the SETimes.SR reference training corpus of Serbian, which has been annotated on the following levels:
 * Document, sentence, and token segmentation
 * Lemmas
 * Parts of speech, morphosyntactic descriptors (MSDs), and morphosyntactic features, according to the MultextEast v5 (MTEv5) specification
