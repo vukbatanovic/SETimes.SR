@@ -1,4 +1,4 @@
-# SETimes.SR: Southeast European Times corpus in Serbian
+# SETimes.SR: Reference training corpus of Serbian
 This repository contains the SETimes.SR reference training corpus of Serbian, which has been annotated on the following levels:
 * Document, sentence, and token segmentation
 * Lemmas
@@ -8,7 +8,7 @@ This repository contains the SETimes.SR reference training corpus of Serbian, wh
 
 ## Annotation sources
 
-Document segmentation was introduced in a previous version of this repository.
+Document segmentation was introduced in a previous version of the SETimes.SR repository.
 Sentence and token segmentation, lemmas, and MSD layers were taken from the [Regional Linguistic Data Initiative repository](https://github.com/uzh/reldi/tree/master/corpora).
 UDv2 dependency relation layer was taken from the [UD Serbian repository](https://github.com/UniversalDependencies/UD_Serbian-SET).
 Both the MTEv5 and the UD morphosyntactic features and POS tags were semi-automatically generated using the MTE - UD mapping and code available in this repository. The same mapping was also applied to the [hr500k corpus in Croatian](https://github.com/nljubesi/hr500k/).
