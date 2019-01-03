@@ -17,7 +17,7 @@ The named entity annotation is newly added.
 
 ## Structure
 
-The SETimes.SR corpus file is structured according to the CoNLL file format standard, with the following distribution of information across columns:
+The [SETimes.SR corpus file](https://raw.githubusercontent.com/vukbatanovic/SETimes.SR/master/set.sr.conll) is structured according to the CoNLL file format standard, with the following distribution of information across columns:
 1. Token index in the sentence
 2. Token
 3. Lemma
